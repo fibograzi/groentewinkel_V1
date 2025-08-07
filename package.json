@@ -1,0 +1,21 @@
+{
+  "name": "biomarkt-nederland",
+  "version": "1.0.0",
+  "description": "Premium biologische online supermarkt - High-end Dutch organic supermarket website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "organic",
+    "supermarket",
+    "dutch",
+    "biologisch",
+    "ecommerce",
+    "sustainable"
+  ],
+  "author": "BioMarkt Nederland",
+  "license": "MIT",
+  "homepage": "https://biomarkt-nederland.vercel.app"
+}
